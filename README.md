@@ -42,9 +42,8 @@ tech_stack = {
 }
 ```
 
-## 🚀 Projetos Inovadores
 
-### Sistema Inteligente de Gestão de Glosas 🏥
+### 🚀 Sistema Inteligente de Gestão de Glosas 🏥
 ```python
 projeto_glosas = {
     "impacto": "Redução de 40% no tempo de processamento",
@@ -58,7 +57,7 @@ projeto_glosas = {
 }
 ```
 
-### Assistente Virtual para Saúde 🤖
+### Assistente Virtual 🤖
 ```python
 chatbot_saude = {
     "objetivo": "Democratizar informações médicas",
