@@ -74,7 +74,7 @@ skills = {
 
 ## 📊 Estatísticas GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dracula)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=WellingtonHp22&show_icons=true&theme=dracula)
 
 ## 📫 Contato
 
