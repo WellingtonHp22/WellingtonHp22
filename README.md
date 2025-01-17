@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, my name is 👋 
 
 # Wellington Machado dos Santos
 ### Desenvolvedor Back-End | Especialista em Análise de Dados na Área da Saúde 🏥
