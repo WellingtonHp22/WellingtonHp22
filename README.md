@@ -112,7 +112,7 @@ chatbot_saude = {
 
 [![Email](https://img.shields.io/badge/Email-wellingtondriver%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:wellingtondriver@gmail.com)
 [![Phone](https://img.shields.io/badge/Telefone-(12)%2099210--5202-green?style=for-the-badge&logo=whatsapp)](https://wa.me/5512992105202)
-[![Location](https://img.shields.io/badge/Localização-Pindamonhangaba%20SP-blue?style=for-the-badge&logo=google-maps)](https://goo.gl/maps/Pindamonhangaba)
+[![Location](https://img.shields.io/badge/Localização-Pindamonhangaba%20SP-blue?style=for-the-badge&logo=google-maps)](https://google.com/maps/place/Pindamonhangaba)
 
 </div>
 
