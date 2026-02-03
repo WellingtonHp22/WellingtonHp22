@@ -12,7 +12,8 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou um profissional em transição de carreira, combinando uma sólida experiência em análise de dados no setor de saúde com desenvolvimento back-end. Atualmente cursando Desenvolvimento Back-End na Cruzeiro do Sul Virtual, aplico minha experiência analítica e conhecimentos técnicos para criar soluções eficientes e escaláveis.
+Atuo como Tech Analyst no C6 Bank, desenvolvendo microsserviços críticos para o setor financeiro com Kotlin e Spring Boot.
+​Graduado em Desenvolvimento Back-End e atualmente Pós-graduando em Ciência de Dados, combino minha sólida experiência analítica prévia com engenharia de software moderna. Meu foco é criar soluções escaláveis, seguindo boas práticas (Clean Code/SOLID) e resolvendo problemas complexos de infraestrutura e negócios.
 
 ## 🛠️ Arsenal Tecnológico
 
