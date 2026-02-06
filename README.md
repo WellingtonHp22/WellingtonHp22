@@ -1,7 +1,8 @@
 <div align="center">
-  
+
 # 👨‍💻 Wellington Machado dos Santos
-### Desenvolvedor Back-End & Especialista em Análise de Dados em Saúde 🏥
+
+### Tech Analyst | Especialista em Dados & Crédito Bancário | Back-End Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellington-m-santos-364013aa/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wellingtondriver@gmail.com)
@@ -10,117 +11,20 @@
 
 </div>
 
-## 👨‍💻 Sobre Mim
+---
 
-Atuo como Tech Analyst no C6 Bank, desenvolvendo microsserviços críticos para o setor financeiro com Kotlin e Spring Boot.
-​Graduado em Desenvolvimento Back-End e atualmente Pós-graduando em Ciência de Dados, combino minha sólida experiência analítica prévia com engenharia de software moderna. Meu foco é criar soluções escaláveis, seguindo boas práticas (Clean Code/SOLID) e resolvendo problemas complexos de infraestrutura e negócios.
+## 🎯 Sobre Mim
 
-## 🛠️ Arsenal Tecnológico
+Tech Analyst Sênior no **C6 Bank**, atuando em microsserviços críticos de crédito financeiro. Formado em Desenvolvimento Back-End com especialização em **Ciência de Dados e Big Data Analytics**, combino expertise técnica em Python, SQL e engenharia de software com visão analítica de negócio.
 
-```python
-tech_stack = {
-    "Linguagens": {
-        "Principal": ["Python 🐍", "SQL 📊"],
-        "Markup": ["XML 📑", "JSON 📋"],
-    },
-    "Frameworks": {
-        "Web": ["Django 🎯", "Flask 🌶️"],
-        "Data": ["Pandas 🐼", "NumPy 🔢"],
-    },
-    "Databases": {
-        "Relacional": ["MySQL 🎲"],
-        "Experiência": ["Design", "Otimização", "Queries Complexas"]
-    },
-    "IA & Automação": {
-        "Chatbots": ["ChatGPT 🤖", "Gemini 🌟", "GitHub Copilot 👨‍💻"],
-        "Automação": ["Processos de Negócio", "Análise de Dados"]
-    },
-    "Ferramentas": {
-        "IDE": ["VS Code 💻", "Sublime Text ✨"],
-        "ERP": ["TOTVS 12 🏢"],
-        "Office": ["Excel Avançado 📊", "VBA 🔧"]
-    }
-}
-```
-
-
-### 🚀 Sistema Inteligente de Gestão de Glosas 🏥
-```python
-projeto_glosas = {
-    "impacto": "Redução de 40% no tempo de processamento",
-    "tecnologias": ["Python", "XML", "MySQL", "TOTVS 12"],
-    "features": [
-        "Automação de análise de glosas médicas",
-        "Machine Learning para identificação de padrões",
-        "Dashboard em tempo real",
-        "Integração com sistemas legados"
-    ]
-}
-```
-
-### Assistente Virtual 🤖
-```python
-chatbot_saude = {
-    "objetivo": "Democratizar informações médicas",
-    "tecnologias": ["Python", "NLP", "MySQL", "APIs IA"],
-    "funcionalidades": [
-        "Respostas contextualizadas sobre procedimentos",
-        "Integração com bases de dados médicas",
-        "Análise semântica de consultas",
-        "Escalabilidade automática"
-    ]
-}
-```
-
-## 📈 Métricas & Análises
-
-<div align="center">
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=WellingtonHp22&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WellingtonHp22&layout=compact&theme=tokyonight)
-
-</div>
-
-## 🎓 Formação Acadêmica
-
-| Curso | Instituição | Período |
-|-------|-------------|----------|
-| 🎓 Desenvolvimento Back-End | Cruzeiro do Sul Virtual | 2023 - 2025 |
-| 📊 Técnico em Logística | ETEC João Gomes de Araújo | 2012 - 2013 |
-
-## 💼 Trajetória Profissional
-
-### Unimed Pindamonhangaba 🏥
-**Analista de Recurso de Glosa Auto-Gestão** (2024 - Atual)
-- 📊 Desenvolvimento de dashboards analíticos
-- 🤖 Implementação de automações inteligentes
-- 💡 Otimização de processos via código
-
-**Assistente de Intercâmbio** (2019 - 2024)
-- 🔄 Gestão do processo de migração para TOTVS 12
-- 📈 Análise e otimização de fluxos operacionais
-- 🛠️ Desenvolvimento de soluções automatizadas
-
-### Hospital Regional do Vale do Paraíba 🏥
-**Auxiliar de Recurso de Glosa** (2015 - 2019)
-- 📊 Criação de sistemas de controle
-- 🔍 Análise forense de dados
-- 💻 Automação de processos críticos
-
-## 📫 Conecte-se Comigo
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-wellingtondriver%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:wellingtondriver@gmail.com)
-[![Phone](https://img.shields.io/badge/Telefone-(12)%2099210--5202-green?style=for-the-badge&logo=whatsapp)](https://wa.me/5512992105202)
-[![Location](https://img.shields.io/badge/Localização-Pindamonhangaba%20SP-blue?style=for-the-badge&logo=google-maps)](https://google.com/maps/place/Pindamonhangaba)
-
-</div>
+**Diferencial:** Transição estratégica de back-end (Java/Kotlin/Spring Boot) para dados, mantendo capacidade de automação e troubleshooting complexo.
 
 ---
 
-<div align="center">
+## 🛠️ Stack Tecnológico
 
-### 💡 "Código limpo não é escrito seguindo um conjunto de regras. Você não se torna um artesão de software seguindo uma lista. Profissionalismo e artesanato vêm de valores que impulsionam disciplinas." - Robert C. Martin
-
-</div>
+### 📊 Dados & Análise
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
